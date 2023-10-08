@@ -73,6 +73,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url("../media/backround_home.jpg");
 }
 
 .home-img {
@@ -150,7 +151,6 @@ span {
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    background-image: url("../media/backround_about.jpg");
     background: var(--second-bg-color);
 }
 
@@ -254,7 +254,9 @@ span {
 }
 
 .portfolio-box img{
-    width:100%; 
+    width:100%;
+    object-fit: cover;
+    justify-self: left;
 }
 
 .portfolio-box p{
