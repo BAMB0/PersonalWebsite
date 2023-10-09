@@ -83,7 +83,7 @@ section {
     margin-left: 2rem;
 }
 
-.home-img img{
+.home-img img {
     width: 20vw;
 }
 
@@ -191,7 +191,7 @@ span {
     margin-bottom: 2rem;
 }
 
-.experience-content{
+.experience-content {
     width: 100%;
 }
 
@@ -209,13 +209,13 @@ span {
     justify-content: space-between;
 }
 
-.experience-box{
+.experience-box {
     display: flex;
     justify-items: center;
     flex: 1;
 }
 
-.experience-icon-box{
+.experience-icon-box {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -236,7 +236,7 @@ span {
     gap: 4rem;
 }
 
-.portfolio h2{
+.portfolio h2 {
     margin-bottom: 4rem;
 }
 
@@ -244,7 +244,7 @@ span {
     align-items: center;
 }
 
-.portfolio-box{
+.portfolio-box {
     position: relative;
     border-radius: 2rem;
     box-shadow: 0 0 1rem var(--bg-color);
@@ -253,28 +253,28 @@ span {
     margin-bottom: 2rem;
 }
 
-.portfolio-box img{
+.portfolio-box img {
     width:100%;
     object-fit: cover;
     object-position: left;
 }
 
-.portfolio-box p{
+.portfolio-box p {
     margin: 0.1rem 1rem 0 0.5rem;
     font-size: 2rem;
 }
 
-.portfolio-box h4{
+.portfolio-box h4 {
     font-size: 2.6rem;
     margin: 0.5rem 0 1rem 0.5rem;
 }
 
-.portfolio-layer a{
+.portfolio-layer a {
     font-size: 3rem;
     margin: 0.5rem 0 1rem 0.5rem;
 }
 
-.footer{
+.footer {
     margin-bottom: 5rem;
 }
 
