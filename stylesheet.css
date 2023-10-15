@@ -191,7 +191,7 @@ span {
 }
 
 .experience{
-
+    max-height: fit-content;
 }
 
 .experience h2 {
@@ -199,7 +199,7 @@ span {
 }
 
 .experience p {
-    margin-bottom: 2rem;
+    font-size: 2rem;
 }
 
 .experience-content {
@@ -231,15 +231,18 @@ span {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 15%;
+    width: 10%;
 }   
 
 .experience h3{
-    
+    font-size: 2.3rem;
 }
 
 .portfolio {
     background: var(--second-bg-color);
+}
+
+.portfolio{
 }
 
 .portfolio-content {
