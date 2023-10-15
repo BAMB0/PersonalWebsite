@@ -190,6 +190,10 @@ span {
     line-height: 3.2rem;
 }
 
+.experience{
+
+}
+
 .experience h2 {
     margin-bottom: 5rem;
 }
@@ -220,6 +224,7 @@ span {
     display: flex;
     justify-items: center;
     flex: 1;
+    flex-direction: column;
 }
 
 .experience-icon-box {
@@ -230,7 +235,7 @@ span {
 }   
 
 .experience h3{
-    text-align: center;
+    
 }
 
 .portfolio {
