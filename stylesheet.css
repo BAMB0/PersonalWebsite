@@ -59,12 +59,13 @@ section {
 }
 
 .navbar a:hover {
-    color: green;
+    color: var(--bg-color);
 }
 
-.navbar a.active {
-    color: green;
-}
+    .navbar a.active {
+        color: var(--bg-color);
+        text-shadow: 0 0 1rem var(--bg-color);
+    }
 
 #menu.icon {
     font-size: 3.6rem;
