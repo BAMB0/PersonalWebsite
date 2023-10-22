@@ -62,10 +62,10 @@ section {
     color: var(--bg-color);
 }
 
-    .navbar a.active {
-        color: var(--bg-color);
-        text-shadow: 0 0 1rem var(--bg-color);
-    }
+.navbar a.active {
+    color: var(--bg-color);
+    text-shadow: 0 0 1rem var(--bg-color);
+}
 
 #menu.icon {
     font-size: 3.6rem;
@@ -80,6 +80,7 @@ section {
     background-image: url("../media/backround_home.jpg");
 }
 
+/*
 .home-img {
     overflow: hidden;
     box-shadow: 0 0 1rem var(--bg-color);
@@ -90,6 +91,8 @@ section {
 .home-img img {
     width: 20vw;
 }
+
+*/
 
 /*############################ fix border #######################################*/
 
