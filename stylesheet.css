@@ -44,9 +44,9 @@ section {
     z-index: 100;
 }
 
-.header.sticky {
-    border-bottom: .1rem solid var(--bg-color);
-}
+    .header.sticky {
+        border-bottom: .1rem solid var(--bg-color);
+    }
 
 .logo {
     font-size: 2.5rem;
@@ -348,4 +348,11 @@ span {
     .footer {
         padding: 2rem 3%;
     }
+
+    @media (max-width: 768px) {
+        #menu-icon {
+            display: block;
+        }
+    }
+
 }
