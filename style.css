@@ -21,6 +21,10 @@ html {
     overflow-x: hidden;
 }
 
+html a:active{
+    color: var(--bg-color);
+}
+
 body {
     background: var(--bg-color);
     color: var(--text-color);
