@@ -44,9 +44,9 @@ section {
     z-index: 100;
 }
 
-    .header.sticky {
-        border-bottom: .1rem solid var(--bg-color);
-    }
+.header.sticky {
+    border-bottom: .1rem solid var(--bg-color);
+}
 
 .logo {
     font-size: 2.5rem;
@@ -62,14 +62,14 @@ section {
     transition: .3s;
 }
 
-    .navbar a:hover {
-        color: var(--bg-color);
-    }
+.navbar a:hover {
+    color: var(--bg-color);
+}
 
-    .navbar a.active {
-        color: var(--bg-color);
-        text-shadow: 0 0 1rem var(--bg-color);
-    }
+.navbar a.active {
+    color: var(--bg-color);
+    text-shadow: 0 0 1rem var(--bg-color);
+}
 
 #menu.icon {
     font-size: 3.6rem;
@@ -105,10 +105,10 @@ section {
     font-weight: 700;
 }
 
-    .home-content h3:nth-of-type(2) {
-        font-size: 2.5rem;
-        font-weight: 700;
-    }
+.home-content h3:nth-of-type(2) {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
 
 span {
     color: var(--main-color);
@@ -138,10 +138,10 @@ span {
     margin: 3rem 1.5rem 3rem 0;
 }
 
-    .social-media a:hover {
-        background: var(--main-color);
-        color: var(--second-bg-color);
-    }
+.social-media a:hover {
+    background: var(--main-color);
+    color: var(--second-bg-color);
+}
 
 .btn {
     display: inline;
@@ -203,13 +203,13 @@ span {
     max-height: fit-content;
 }
 
-    .experience h2 {
-        margin-bottom: 5rem;
-    }
+.experience h2 {
+    margin-bottom: 5rem;
+}
 
-    .experience p {
-        font-size: 2rem;
-    }
+.experience p {
+    font-size: 2rem;
+}
 
 .experience-content {
     width: 100%;
@@ -278,21 +278,21 @@ span {
     background-color: var(--bg-color);
 }
 
-    .portfolio-box img {
-        width: 100%;
-        object-fit: cover;
-        object-position: left;
-    }
+.portfolio-box img {
+    width: 100%;
+    object-fit: cover;
+    object-position: left;
+}
 
-    .portfolio-box p {
-        margin: 0.1rem 1rem 0 0.5rem;
-        font-size: 2rem;
-    }
+.portfolio-box p {
+    margin: 0.1rem 1rem 0 0.5rem;
+    font-size: 2rem;
+}
 
-    .portfolio-box h4 {
-        font-size: 2.6rem;
-        margin: 0.5rem 0 1rem 0.5rem;
-    }
+.portfolio-box h4 {
+    font-size: 2.6rem;
+    margin: 0.5rem 0 1rem 0.5rem;
+}
 
 .portfolio-layer a {
     font-size: 2rem;
