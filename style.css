@@ -14,6 +14,7 @@
     --second-bg-color: #533758;
     --text-color: #ffffff;
     --main-color: #ffffff;
+    --link-color: #00e9ff;
 }
 
 html {
@@ -21,8 +22,12 @@ html {
     overflow-x: hidden;
 }
 
+html a {
+    color: var(--link-color);
+}
+
 html a:active{
-    color: var(--bg-color);
+    color: var(--text-color);
 }
 
 body {
